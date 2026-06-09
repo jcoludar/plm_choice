@@ -1,4 +1,4 @@
-# Protein Language Model Evaluation Framework
+# Protein Language Model Evaluation Framework 
 
 A framework for training and evaluating machine learning models that predict protein properties based on embeddings from various Protein Language Models (PLMs).
 
